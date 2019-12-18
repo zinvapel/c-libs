@@ -2,7 +2,7 @@
  * core.h
  *
  *  Created on: Dec 18, 2019
- *      Author: ruamtp3
+ *      Author: zinvapel
  */
 
 #ifndef LIB_CORE_CORE_H_

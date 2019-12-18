@@ -2,7 +2,7 @@
  * trie.h
  *
  *  Created on: Dec 18, 2019
- *      Author: ruamtp3
+ *      Author: zinvapel
  */
 
 #ifndef LIB_TRIE_H_

@@ -2,7 +2,7 @@
  * trie.c
  *
  *  Created on: Dec 18, 2019
- *      Author: ruamtp3
+ *      Author: zinvapel
  */
 
 #include "trie.h"
