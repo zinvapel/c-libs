@@ -1,3 +1,3 @@
-Repo for c experiments
+Repo for C 
 ===
 1. trie -> search trie
